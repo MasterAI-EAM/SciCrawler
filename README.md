@@ -15,6 +15,10 @@ City University of Hong Kong - Kit's Group
 
 - Yuwei Wan
 
+Beijing Institute of Technology - Greendynamics Limited Intern
+
+- Yingjie Xiao
+
 If you are planning to use MasterAI in your work, please consider citing the following paper:
 
 @article{xie2023darwin,
