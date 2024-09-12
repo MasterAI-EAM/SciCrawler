@@ -15,7 +15,7 @@ City University of Hong Kong - Kit's Group
 
 - Yuwei Wan
 
-Beijing Institute of Technology - Greendynamics
+University of Tuebingen - GreenDynamics Intern
 
 - Yingjie Xiao
 
